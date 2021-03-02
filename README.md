@@ -1,6 +1,6 @@
 # Love & Tolerance: Spring Addon
 
-
+![L&T: Spring Addon](https://repository-images.githubusercontent.com/260838110/0e8b2980-7ae6-11eb-9148-13807c8e2a6e)
 
 [![Downloads](https://img.shields.io/github/downloads/Love-and-Tolerance/Spring-Addon/total.svg?color=blue)](https://github.com/Love-and-Tolerance/Spring-Addon/releases/latest) [![Discord Server](https://img.shields.io/discord/621069869244350468.svg?color=blueviolet)](https://discord.gg/fxNMGvm)
 
